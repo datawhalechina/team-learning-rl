@@ -1,4 +1,4 @@
-
+﻿
 
 
 ## 简介
@@ -7,7 +7,7 @@
 
 主要包括：
 
-- [强化学习基础](https://github.com/datawhalechina/leedeeprl-notes)
+- [深度强化学习基础](https://github.com/datawhalechina/team-learning-rl/tree/main/LeeDeepRLNotes)
 
 
 
